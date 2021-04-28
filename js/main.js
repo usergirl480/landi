@@ -62,7 +62,7 @@ $(document).ready(function() {
 
 
 
-let content = 'Landing Page App'
+let content = 'kauan é gay'
 let cont = 0
 let text = document.getElementById('text')
 let speed = 350
